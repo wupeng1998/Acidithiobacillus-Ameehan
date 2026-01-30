@@ -1,5 +1,7 @@
-# Acidithiobacillus Ameehan AME_WP1377 Genome Annotation & Supplementary Data
 <div align="center">
+   
+# Acidithiobacillus Ameehan AME_WP1377 Genome Annotation & Supplementary Data
+
    [**English Version**](README.md) | [**中文版**](README_zh.md) 
 </div>
 本仓库存储**Acidithiobacillus Ameehan AME_WP1377**（嗜酸硫氧化细菌模式菌株）的全基因组注释数据、代谢模型评估报告及发表于*Frontiers in Microbiology*的研究论文补充材料，为该菌株的基因组功能解析、代谢机制研究及极端环境适应机制分析提供核心数据支撑。
