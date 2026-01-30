@@ -1,15 +1,9 @@
-Here is the English version of the README. You can place this content in a file named `README_EN.md` or append it to your current document.
-
-To enable **one-click switching**, add these buttons to the very top of both your Chinese and English README files:
-
-```markdown
-[**English Version**](README.md) | [**中文版**](README_zh.md) 
-
-```
-
----
-
+<div align="center">
+   
 # Acidithiobacillus Ameehan AME_WP1377 Genome Annotation & Supplementary Data
+
+   [**English**](README.md) | [**中文**](README_zh.md) 
+</div>
 
 This repository contains the complete genome annotation data, metabolic model evaluation reports, and supplementary materials for the research paper published in *Frontiers in Microbiology* regarding **Acidithiobacillus Ameehan AME_WP1377** (a model strain of acidophilic sulfur-oxidizing bacteria). These datasets support functional genomic analysis, metabolic mechanism studies, and environmental adaptation research for this strain.
 
